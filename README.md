@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a developer in eOne's Innovation Lab, working on new experience tech, virtual reality, and wearables.
 <!--
 **dylandevs/dylandevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
