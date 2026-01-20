@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer at Reality Labs, working on interaction tech.
+I'm a developer at Meta Reality Labs, working on human to AI interactions and AI cloud inference systems.
 <!--
 **dylandevs/dylandevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
